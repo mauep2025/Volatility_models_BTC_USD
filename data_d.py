@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 25 10:02:30 2021
 
-@author: Mauricio
-"""
 # Download the data from Yahoo Finance
 import time
 import datetime
