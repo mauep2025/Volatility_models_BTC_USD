@@ -10,7 +10,6 @@ interval = '1d'
 
 btcusd_s = f'https://query1.finance.yahoo.com/v7/finance/download/{ticker}?period1={time1}&period2={time2}&interval={interval}&events=history&includeAdjustedClose=true'
 
-#Storing the data in SQL
 
 # Storing the data in excel
 sd = pd.read_csv(btcusd_s)
